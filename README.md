@@ -1,4 +1,5 @@
 # Zuvio--GUI
+### 參照 @kalvin520
 <img src="https://github.com/jacklin92/Zuvio--GUI/assets/127089881/ba73317f-7801-4a80-a1a3-d72b8454b7d8" alt="Your Image" width="500" height="500">
 
 ## 使用方式
